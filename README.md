@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de4fb173-82a8-4798-a780-eae4e46addde)# 政府招商引资知识图谱（Investment Promotion Knowledge Graph）
+# 政府招商引资知识图谱（Investment Promotion Knowledge Graph）
 
 本项目用于构建政府招商引资领域知识图谱，数据由大语言模型抽取而来，政策文件下载自北大法宝平台。
 
@@ -46,6 +46,6 @@ CSV_FILE_PATH = r''
 ```
 
 导入完成后即可在Neo4j界面查看知识图谱。
+![image](https://github.com/user-attachments/assets/1deba891-a521-41fa-b076-fbf9d9f2d5c5)
 
-![图片1](https://github.com/user-attachments/assets/4bcd3e49-7d18-4dbe-9d81-1a178e4568df)
 
